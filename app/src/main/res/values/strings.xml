@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">LunchTray</string>
+    <string name="subtotal"> SubTotal: %s</string>
+    <string name ="total"> Total: %s </string>
+    <string name ="tax"> Tax: %s</string>
+    <string name="start">Start</string>
+    <string name="Entree"> Entree Menu</string> 
+    <string name="SideDish">Side Dish Menu</string>
+    <string name="Accompaniment">Accompaniment Menu</string>
+    <string name ="summary">Summary</string>
+</resources>
